@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "62818301179@s.whatsapp.net",
+    "ownerName": "chainner BOTZ",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "chainner BOTZ",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "apikey is here",
+    "fake": "chainner BOTZ VERIFIED",
+    "sesidInsta": "default",
+    "sessionName": "aqulzz",
+    "txtDonasi": "GOPAY : 0818301179\nSaweeria :https://saweria.co/chainnerbot\nPulsa : 0818301179",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
